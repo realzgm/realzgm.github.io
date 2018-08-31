@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://guoming.github.io/sitemap.xml
+Sitemap: https://realzgm.github.io/sitemap.xml
